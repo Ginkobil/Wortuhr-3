@@ -4,7 +4,7 @@ Wortuhr 3
 Hier findet man alle nötigen Informationen der Wort Uhr von
 Ulrichradig.de
 
-![](pics/wortuhr-2-screenshot.png)
+![](pics/wortuhr-3-screenshot.png)
 
 ## Einleitung
 
