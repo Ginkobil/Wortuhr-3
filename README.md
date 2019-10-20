@@ -1,4 +1,4 @@
-Wortuhr 2
+Wortuhr 3
 =========
 
 Hier findet man alle nötigen Informationen der Wort Uhr von
@@ -8,7 +8,7 @@ Ulrichradig.de
 
 ## Einleitung
 
-Es handelt sich hier um die Version 2 der Wort Uhr. Informationen unter
+Es handelt sich hier um die Version 3 der Wort Uhr. Informationen unter
 <http://www.ulrichradig.de/home/index.php/projekte/wort-uhr-neu>
 
 Für den Nachbau wird folgende Hardware/Software benötigt:
